@@ -45,7 +45,7 @@ const Hero: NextPage = () => {
     <Container>
       <TextContainer>
         <H1>FERAS AHMAD</H1>
-        <Title>front-end developer</Title>
+        <Title>software engineer</Title>
       </TextContainer>
       <Video />
     </Container>
